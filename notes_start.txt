@@ -1,0 +1,42 @@
+
+
+
+0 Preparation:
+=================
+
+(https://www.youtube.com/watch?v=FaR6TQXxcys)
+
+1. download Quebes OS(or Tail OS) and run VM -> or boot from USB -> RPi
+(https://tails.boum.org/install/vm-download/index.en.html)
+(https://www.qubes-os.org/downloads/)
+
+2. install TOR browser
+3. never maximize TOR browser window !
+4. forbid scripts !
+5. TOR network settings (ISP blocking)
+6. cover/block webcam
+7. browse the hidden wiki
+
+
+(https://www.youtube.com/watch?v=1DU-UymFt7c)
+
+
+8. set TOR as default browser
+
+
+1.Search engines
+=================
+
+duckduckgo
+torch
+recon
+ahmia
+notevil
+candle
+haystack
+kilos
+parazite
+
+guides:
+thehiddenwiki
+torlinks
